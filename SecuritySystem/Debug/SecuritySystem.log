@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  binarytree.cpp
+  interface.cpp
+  lock.cpp
+  locksystem.cpp
+  SecuritySystem.cpp
+d:\descargas\visual studio projects\coursework1\securitysystem\securitysystem\securitysystem.cpp(14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  utilities.cpp
+  Generando código...
+  SecuritySystem.vcxproj -> D:\Descargas\Visual Studio Projects\CourseWork1\SecuritySystem\Debug\SecuritySystem.exe
